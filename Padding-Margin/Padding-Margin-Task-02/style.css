@@ -1,0 +1,39 @@
+body {
+  /* Change me */
+}
+
+h1 {
+  font-size: 45px;
+  color: green;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+}
+
+img.header-img {
+  display: block;
+  /* Change me */
+}
+
+p {
+  font-size: 24px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+li {
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+img {
+  border-radius: 10px;
+  /* Change me */
+}
+
+button {
+  background-color: green;
+  border-radius: 10px;
+  color: beige;
+  font-size: 20px;
+  width: 150px;
+  /* Change me */
+}
