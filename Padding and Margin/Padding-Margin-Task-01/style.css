@@ -1,0 +1,42 @@
+.card-message {
+  font-size: 15px;
+  margin: 0px;
+}
+
+.card {
+  width: 400px;
+  background: green;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  /* -webkit-transform: translate(-50%, -50%); */
+  transform: translate(-50%, -50%);
+  /* Change me */
+}
+
+.title {
+  background: white;
+  font-size: 16px;
+  /* Change me */
+}
+
+.content {
+  background: white;
+  /* Change me */
+}
+
+textarea {
+  width: 100%;
+}
+
+.button-container {
+  background: white;
+  /* Change me */
+}
+
+button {
+  background: white;
+  border: 1px solid #eee;
+  display: block;
+  /* Change me */
+}
