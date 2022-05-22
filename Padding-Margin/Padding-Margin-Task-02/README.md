@@ -6,7 +6,7 @@ For this first exercise, simply edit the style.css file so that the divs look li
 - Fork and clone this repository.
 - Open the style file and start adding your magic (some paddings and margins).
 
-### Desire Outcome
+### Desired Outcome
 <img width="460" alt="Screen Shot 2022-05-21 at 6 46 01 PM" src="https://user-images.githubusercontent.com/66907264/169659821-083e2183-560b-4eba-a39c-b12a2a6f5ab5.png">
 
 ### Self Check
