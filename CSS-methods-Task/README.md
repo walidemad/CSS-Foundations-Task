@@ -18,7 +18,7 @@ There are some elements for you to add styles to, each of which uses a different
 ### Desired Outcome
 
 
-https://user-images.githubusercontent.com/66907264/169693823-3f259cdb-b424-4937-bc7f-5bff0d791773.mov
+https://user-images.githubusercontent.com/66907264/169694438-585cf759-e68f-43ac-8b19-0c614c9e9c77.mov
 
 
 ### Self Check
