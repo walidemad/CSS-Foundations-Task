@@ -9,7 +9,7 @@ In this task, you'll need some margin and padding to make it look nice and prese
 
 ### Desired Outcome
 
-https://user-images.githubusercontent.com/66907264/169670815-5e8bf396-8125-45ee-966f-f1b9a78adcd8.mov
+https://user-images.githubusercontent.com/66907264/169694368-346b3272-09f6-48ee-b100-1cb9a48ad151.mov
 
 
 ### Self Check
