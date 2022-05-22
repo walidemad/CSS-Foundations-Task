@@ -10,6 +10,10 @@ The main purpose of this task is for testing your ability to use each of the pos
 ### Desired Outcome
 
 
+https://user-images.githubusercontent.com/66907264/169717863-afffa7a9-70fc-4d14-bcba-81787d75674b.mov
+
+
+
 
 ### Self Check
 - Background image is covering the whole page (even when scrolling down), the image could be of your choice. 
@@ -22,7 +26,7 @@ The main purpose of this task is for testing your ability to use each of the pos
 
 
 #### Some resources
-[z-index](https://developer.mozilla.org/en-US/docs/Web/CSS/z-index)
-[position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
-[box-shadow generator](https://html-css-js.com/css/generator/box-shadow/)
-[box-shadow docs](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow)
+- [z-index](https://developer.mozilla.org/en-US/docs/Web/CSS/z-index)
+- [position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
+- [box-shadow generator](https://html-css-js.com/css/generator/box-shadow/)
+- [box-shadow docs](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow)
