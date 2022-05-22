@@ -14,7 +14,7 @@ There are some elements for you to add styles to, each of which uses a different
    - `li`: font size of 20px, font family of your choice.
    - `button`: a green background, beige text, font size of 20px, width of 150px, border radius of 10px.
 
-### Desire Outcome
+### Desired Outcome
 
 
 
