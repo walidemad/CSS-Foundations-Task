@@ -13,7 +13,7 @@ There are some elements for you to add styles to, each of which uses a different
    - `img`: a border radius of 10px, width of 400px;
    - `li`: font size of 20px, font family of your choice.
    - `button`: a green background, beige text, font size of 20px, width of 150px, border radius of 10px.
-   - `body`: a wheat background color.
+   - `body`: a `wheat` background color.
 
 ### Desired Outcome
 
