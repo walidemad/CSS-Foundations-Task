@@ -17,12 +17,16 @@ p {
 }
 
 .card {
+  padding:8px ;
   width: 400px;
   background: green;
   /* Change me */
 }
 
 .title {
+  margin-top: 0px;
+  margin-bottom: 8px;
+  padding: 8px;
   background: white;
   text-align: center;
   font-size: 16px;
@@ -30,18 +34,23 @@ p {
 }
 
 .content {
+  margin-bottom: 8px;
+  padding: 16px 8px;
   background: white;
   font-style: italic;
   /* Change me */
 }
 
 .button-container {
+  padding: 8px;
   background: white;
   text-align: center;
   /* Change me */
 }
 
 button {
+  margin: auto;
+  padding: 8px 24px;
   background: white;
   border: 1px solid #eee;
   width: 80%;
@@ -49,3 +58,4 @@ button {
   display: block;
   /* Change me */
 }
+
